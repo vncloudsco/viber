@@ -1,11 +1,19 @@
-name: viber-mtd
+name: skype-mtd
 version: '0.1' 
-summary: Unofficial snap for Viber Desktop
+summary: One Skype for all your devices. New features. New look. All Skype.
 description: |
-  Viber is a calling and messaging app that connects people–no matter who they are, or where they’re from.
-  With a free and secure connection, over 1 billion users worldwide communicate with their loved ones 
-  through high-quality audio and video calls, messaging, and much more. All Viber calls and chats are
-  protected by built-in end-to-end encryption, so you can be sure that your conversations are always secure.
+
+Skype keeps the world talking. Say “hello” with an instant message, voice or video call – all for free, no matter what device they use Skype on. Skype is available on phones, tablets, PCs, Macs and Linux.
+
+Video calls – Don’t just hear the cheers, see it! Get together with 1 or 24 of your friends and family on a video call. Watch your everyone’s smiles and cries when you tell them “We’re engaged!!!"
+
+Chat – Reach people instantly. Send messages to your friends, liven up conversations with emoticons and Mojis, or create a group chat to make weekend plans with up to 300 people.
+
+Share – Do more together. Easily share your screen, photos, videos, documents, and files with your family and friends. Unlike email, Skype will transfer up to 300MB per file.
+
+Voice calls – Camera shy? Make voice calls to anyone on Skype. You can also call mobile and landlines at low rates.
+
+support vietnamese ibus unikey
 
 grade: stable
 confinement: strict
