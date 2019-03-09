@@ -1,17 +1,11 @@
 name: viber-mtd
 version: '0.1' 
-summary: Unofficial snap for Viber Desktop
+summary: Viber Desktop support unbuntu
 description: |
-
-Viber is a calling and messaging app that connects people–no matter who they are, or where they’re from.
-
-With a free and secure connection, over 1 billion users worldwide communicate with their loved ones 
-
-through high-quality audio and video calls, messaging, and much more. All Viber calls and chats are
-
-protected by built-in end-to-end encryption, so you can be sure that your conversations are always secure.
-
-report bug: contact[at]manhtuong.net
+  Viber is a calling and messaging app that connects people–no matter who they are, or where they’re from.
+  With a free and secure connection, over 1 billion users worldwide communicate with their loved ones 
+  through high-quality audio and video calls, messaging, and much more. All Viber calls and chats are
+  protected by built-in end-to-end encryption, so you can be sure that your conversations are always secure.
 
 grade: stable
 confinement: strict
